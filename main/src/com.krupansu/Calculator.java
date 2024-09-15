@@ -1,7 +1,6 @@
-package com.krupansu;
+package main.src.com.krupansu;
 
 import java.util.Scanner;
-//let's boom
 
 public class Calculator {
     public static void main(String[] args) {
@@ -49,4 +48,3 @@ public class Calculator {
         }
     }
 }
-//abd

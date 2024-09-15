@@ -1,4 +1,4 @@
-package com.krupansu;
+package main.src.com.krupansu;
 
 public class CountNums {
     public static void main(String[] args) {

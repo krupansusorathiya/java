@@ -1,4 +1,4 @@
-package com.krupansu;
+package main.src.com.krupansu;
 import java.util.Scanner;
 public class Salary {
     public static void main(String[] args) {

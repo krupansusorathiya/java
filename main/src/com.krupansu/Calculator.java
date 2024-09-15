@@ -1,7 +1,7 @@
 package main.src.com.krupansu;
 
 import java.util.Scanner;
-
+//let's boom
 public class Calculator {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
